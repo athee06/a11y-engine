@@ -1,5 +1,13 @@
 # Web Accessibility Heuristic Enhancer
 
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/userscript-Tampermonkey-orange" alt="Userscript">
+  <img src="https://img.shields.io/github/stars/athee06/a11y-engine?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/badge/accessibility-enhancer-8A2BE2" alt="A11Y">
+</p>
+
 A high-performance userscript that automatically improves accessibility on any website using advanced heuristics.  
 It enhances unlabeled buttons, links, forms, dialogs, regions, keyboard navigation, focus management, dynamic components, and infinite-scroll announcements — all without external APIs or dependencies.
 
